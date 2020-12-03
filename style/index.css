@@ -67,7 +67,7 @@ body {
 ====================================================*/
 #section-1 {
   position: relative;
-  background: url("images/1.jpg") no-repeat center center/cover;
+  background: url("../images/1.jpg") no-repeat center center/cover;
   width: 100%;
   min-height: 100vh;
   padding-top: 40vh;
@@ -189,7 +189,7 @@ body {
 #section-3 {
   position: relative;
   min-height: 85vh;
-  background: url("images/3.jpg");
+  background: url("../images/3.jpg");
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -254,7 +254,7 @@ body {
 #section-4 {
   position: relative;
   min-height: 120vh;
-  background: url("images/4.jpg");
+  background: url("../images/4.jpg");
   background-position: center bottom;
   background-size: cover;
   background-repeat: no-repeat;
